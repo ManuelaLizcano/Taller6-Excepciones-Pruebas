@@ -1,0 +1,6 @@
+Numero de identificacion de factura:13035
+El precio total del pedido (sin IVA): 34317.0
+Tarifa general del IVA (19%): 6520.2300000000005
+El precio total del pedido (con IVA): 40837.23
+1. combo todoterreno
+Calorias totales: 1393.28

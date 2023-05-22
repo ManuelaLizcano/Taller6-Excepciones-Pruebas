@@ -1,0 +1,9 @@
+Numero de identificacion de factura:12364
+El precio total del pedido (sin IVA): 128339.99999999997
+Tarifa general del IVA (19%): 24384.599999999995
+El precio total del pedido (con IVA): 152724.59999999998
+1. combo especial
+2. combo especial
+3. combo especial
+4. combo especial
+Calorias totales: 5154.199999999999
